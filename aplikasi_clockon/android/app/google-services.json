@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190051312370",
+    "project_id": "clockon-1b77b",
+    "storage_bucket": "clockon-1b77b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190051312370:android:8582a5cfa00a907b8f266b",
+        "android_client_info": {
+          "package_name": "com.company.clockon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxfMMHalGcAk2iHWfWi59mgye0GRAa7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190051312370:android:e4d69373570785d18f266b",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_clockon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxfMMHalGcAk2iHWfWi59mgye0GRAa7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
